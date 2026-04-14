@@ -11,11 +11,13 @@
 <div class="cover-domain-strip">⬡ INDUSTRIAL DATA PIELINES &nbsp;·&nbsp; CLOUD ARCHITECTURE &nbsp;·&nbsp; AI/ML SYSTEMS &nbsp;·&nbsp; RPA &amp; INTELLIGENT AUTOMATION ⬡</div>
 <div class="cover-name">Muhammad Farhan</div>
 <div class="cover-roles">
-<span class="role-pill role-pill-primary">Seasoned AI Architect</span>
+<span class="role-pill role-pill-primary"> Machine Learning & Data Architecture</span>
 <span class="role-divider">/</span>
-<span class="role-pill">Industrial Data Expert</span>
+<span class="role-pill">Project  & Tooling</span>
 <span class="role-divider">/</span>
-<span class="role-pill">AI Solutions Advisor</span>
+<span class="role-pill">PLM Manager</span>
+<span class="role-divider">/</span>
+<span class="role-pill">AI & System Intelligence Development</span>
 </div>
 <div class="cover-ai-badge">
 <span class="ai-badge-icon">⬡</span>
@@ -73,54 +75,34 @@ What makes this journey distinct is not just technical depth  it is <strong>owne
 </div>
 
 <div class="kpi-grid">
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">2M+</div>
-<div class="kpi-label">sensor readings/min processed with 99.99% SLA</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">30%+</div>
-<div class="kpi-label">equipment downtime reduction via predictive AI</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">40%</div>
-<div class="kpi-label">alarm fatigue reduction through UAEM rationalization</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">15+</div>
-<div class="kpi-label">cross-functional engineers led globally</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">10+</div>
-<div class="kpi-label">major industrial facilities transformed across Pakistan</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">50%</div>
-<div class="kpi-label">release velocity acceleration at Siemens</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">High</div>
-<div class="kpi-label">AI model accuracy  computer vision quality inspection pipelines</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">35%</div>
-<div class="kpi-label">cloud cost reduction via intelligent workload optimization</div>
-</div>
-<div class="kpi-card">
-<div class="kpi-indicator"></div>
-<div class="kpi-value">60%</div>
-<div class="kpi-label">alarm load reduction from rationalization framework</div>
-</div>
+	<div class="kpi-card">
+		<div class="kpi-indicator"></div>
+		<div class="kpi-value">5 yrs</div>
+		<div class="kpi-label">Cybersecurity &amp; Risk Threats</div>
+	</div>
+	<div class="kpi-card">
+		<div class="kpi-indicator"></div>
+		<div class="kpi-value">8 yrs</div>
+		<div class="kpi-label">DevOps &amp; Automation</div>
+	</div>
+	<div class="kpi-card">
+		<div class="kpi-indicator"></div>
+		<div class="kpi-value">10 yrs</div>
+		<div class="kpi-label">IoT Edge &amp; Device Management</div>
+	</div>
+	<div class="kpi-card">
+		<div class="kpi-indicator"></div>
+		<div class="kpi-value">12 yrs</div>
+		<div class="kpi-label">Embedded Devices &amp; Linux Runtime</div>
+	</div>
+	<div class="kpi-card">
+		<div class="kpi-indicator"></div>
+		<div class="kpi-value">4 yrs</div>
+		<div class="kpi-label">AI &amp; Machine Learning</div>
+	</div>
 </div>
 
-<div class="expertise-strip">
+<div class="kpi-grud">
 <span class="exp-badge">Industrial Data Platform</span>
 <span class="exp-badge">Digital Twin &amp; UAEM</span>
 <span class="exp-badge">Performance Loop Optimization</span>
