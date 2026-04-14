@@ -206,6 +206,9 @@ body {
 
     /* Domain Expert Banner — theme-agnostic, left-border accent blocks */
     .domain-expert-banner {
+        display: flex;
+        gap: 16px;
+        align-items: flex-start;
         border: 1px solid rgba(0,184,255,0.22);
         border-left: 4px solid #00b8ff;
         border-radius: 0 10px 10px 0;
@@ -229,8 +232,9 @@ body {
         .deb-text {
             font-size: 0.91rem;
             line-height: 1.78;
+            color: var(--text-normal, rgba(215,230,248,0.92));
             strong { color: #7dcfff; }
-            em { font-style: italic; }
+            em { color: inherit; font-style: italic; }
             > * + * { margin-top: 10px; }
         }
         // Amber variant — RPA & Automation section
@@ -239,6 +243,7 @@ body {
             border-color: rgba(232,160,32,0.24);
             border-left-color: #e8a020;
             .deb-title { color: #e8c060; }
+            .deb-text { color: var(--text-normal, rgba(215,230,248,0.92)); }
             .deb-text strong { color: #f0c848; }
         }
         // Purple variant — Microsoft Fabric section
@@ -247,6 +252,7 @@ body {
             border-color: rgba(130,80,255,0.22);
             border-left-color: #8250ff;
             .deb-title { color: #b39dff; }
+            .deb-text { color: var(--text-normal, rgba(215,230,248,0.92)); }
             .deb-text strong { color: #c4adff; }
         }
     }

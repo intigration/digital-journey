@@ -7,7 +7,7 @@
 <span class="chd-node"></span><span class="chd-line"></span><span class="chd-node"></span><span class="chd-line chd-line-short"></span><span class="chd-node"></span>
 </div>
 <div class="cover-hero-body">
-<div class="cover-domain-strip">⬡ INDUSTRIAL DATA &nbsp;·&nbsp; CLOUD ARCHITECTURE &nbsp;·&nbsp; AI/ML SYSTEMS &nbsp;·&nbsp; RPA &amp; INTELLIGENT AUTOMATION ⬡</div>
+<div class="cover-domain-strip">⬡ INDUSTRIAL DATA PIELINES &nbsp;·&nbsp; CLOUD ARCHITECTURE &nbsp;·&nbsp; AI/ML SYSTEMS &nbsp;·&nbsp; RPA &amp; INTELLIGENT AUTOMATION ⬡</div>
 <div class="cover-name">Muhammad Farhan</div>
 <div class="cover-roles">
 <span class="role-pill role-pill-primary">Seasoned AI Architect</span>
@@ -27,11 +27,17 @@
 <div class="cover-sectors">
 <span class="sector-tag">🏗 Industrial Data Platform</span>
 <span class="sector-tag">🔵 Digital Twin &amp; UAEM</span>
-<span class="sector-tag">⚙ Autonomous supervsion and performance Loop Optimization</span>
-<span class="sector-tag">🗄 PostGres, SQlite, MySql, MS SQL Relational and &amp; Time-Series Databases</span>
+<span class="sector-tag">⚙ Autonomous Supervision &amp; Performance Loop</span>
+<span class="sector-tag">🗄 MS SQL · PostgreSQL · MySQL · SQLite · Time-Series</span>
 <span class="sector-tag">🔗 OPC UA / OPC DA / MQTT / Modbus</span>
 <span class="sector-tag">🤖 RPA · UiPath · Power Automate · IBM</span>
 <span class="sector-tag">📊 Microsoft Fabric</span>
+<span class="sector-tag">📈 Advanced Analytics</span>
+<span class="sector-tag">⚡ Streampipes</span>
+<span class="sector-tag">🔭 Apache Superset</span>
+<span class="sector-tag">🐍 Python</span>
+<span class="sector-tag">🌐 Full Stack Dev</span>
+<span class="sector-tag">🏭 ERP · MES · SAP Integration</span>
 </div>
 </div>
 <div class="cover-hero-decor cover-hero-decor-btm">
@@ -309,6 +315,25 @@ Practical experience across the full Microsoft Fabric stack — from <strong>One
 - (4) #AssetFramework
 
 { .block-language-dataview}
+
+---
+
+## Why Work With Me
+
+<div class="domain-expert-banner">
+<div class="deb-body">
+<div class="deb-title">The Complete Stack — From Sensor to Boardroom</div>
+<div class="deb-text">
+What this profile represents is not a collection of tools — it is a <strong>coherent, end-to-end capability</strong> built over 18+ years of delivery-first engineering. From writing OPC DA/A&amp;E integrations in 2007 to deploying AI inference at the edge in 2025, every layer of the industrial data stack has been built, broken, fixed, and scaled in real customer environments.
+
+The depth runs vertically: <strong>field instrumentation → control systems → historians → MES/ERP integration → cloud platform → AI &amp; analytics → RPA &amp; automation</strong>. SAP and enterprise system integration, OPC standards, NAMUR device diagnostics, embedded edge firmware, cloud-native microservices, Python ML pipelines, full-stack application development, Microsoft Fabric analytics — these are not resume keywords, they are chapters of a single continuous journey.
+
+The breadth runs horizontally: across <strong>oil &amp; gas, chemicals, cement, metals, and discrete manufacturing</strong> — always with the same philosophy: industrial data is only valuable when it flows reliably, is trusted completely, and drives decisions automatically.
+
+If your organisation is building or transforming an <strong>Industrial Data Platform</strong>, converging IT/OT, deploying AI at scale, or integrating SAP/MES with operational data layers — this is the profile that closes the gap between ambition and execution.
+</div>
+</div>
+</div>
 
 ---
 
