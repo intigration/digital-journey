@@ -218,7 +218,7 @@ Designed and tested industrial control strategies for SCADA and automation syste
 
 ## RPA & Intelligent Process Automation
 
-<div class="domain-expert-banner">
+<div class="domain-expert-banner deb-amber">
 <div class="deb-body">
 <div class="deb-text">
 Deep hands-on experience across the three leading RPA platforms — <strong>UiPath</strong> (Studio, AI Center, Orchestrator, Process Mining), <strong>Microsoft Power Automate &amp; Copilot Studio</strong> (AI Builder, Power Platform, Fabric Pipelines), and <strong>IBM RPA &amp; Watson</strong> (NLP pipelines, compliance automation) — applied across industrial operations to eliminate manual workflows in reporting, SCADA alarm handling, maintenance ticketing, and regulatory filing. Delivered self-executing, AI-augmented automation pipelines that connect OT historians (OSIsoft PI / AVEVA) with enterprise systems (SAP, Maximo, SharePoint, Power BI), triggering work orders from predictive model alerts and auto-generating shift handover reports — making the operational data chain largely self-running.
@@ -232,7 +232,7 @@ Deep hands-on experience across the three leading RPA platforms — <strong>UiPa
 
 ## Microsoft Fabric Workload Development
 
-<div class="domain-expert-banner">
+<div class="domain-expert-banner deb-fabric">
 <div class="deb-body">
 <div class="deb-text">
 Practical experience across the full Microsoft Fabric stack — from <strong>OneLake Lakehouse Architecture</strong> (medallion Bronze/Silver/Gold with Delta Lake for time-series OT data) to <strong>Real-Time Intelligence</strong> via Eventstream pipelines ingesting OPC UA, MQTT, and Kafka feeds into KQL databases at sub-second latency. Built <strong>Fabric Data Factory</strong> pipelines and Spark notebooks for industrial ETL, applied <strong>Data Activator</strong> for threshold-triggered workflows, and integrated <strong>Azure OpenAI</strong> for domain-specific manufacturing copilots and AI-generated shift reports. Delivered <strong>Semantic Models &amp; Power BI</strong> executive dashboards (OEE, yield, energy, maintenance KPIs) with ISA-95-aligned row-level security, and enforced <strong>Governance &amp; Compliance</strong> through Microsoft Purview data lineage, sensitivity labeling, and capacity-aware multi-tenant workspace strategies.

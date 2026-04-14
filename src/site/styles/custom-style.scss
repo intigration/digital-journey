@@ -204,17 +204,15 @@ body {
         }
     }
 
-    /* Domain Expert Banner */
+    /* Domain Expert Banner — theme-agnostic, left-border accent blocks */
     .domain-expert-banner {
-        display: flex;
-        gap: 18px;
-        align-items: flex-start;
-        background: linear-gradient(135deg, rgba(0,184,255,0.06) 0%, rgba(11,30,56,0.8) 100%);
-        border: 1px solid rgba(0,184,255,0.16);
+        border: 1px solid rgba(0,184,255,0.22);
         border-left: 4px solid #00b8ff;
-        border-radius: 10px;
-        padding: 18px 22px;
-        margin: 18px 0 24px;
+        border-radius: 0 10px 10px 0;
+        background: rgba(0,184,255,0.06);
+        padding: 20px 24px;
+        margin: 16px 0 24px;
+        .deb-body { width: 100%; }
         .deb-icon {
             font-size: 1.8rem;
             flex-shrink: 0;
@@ -229,13 +227,27 @@ body {
             margin-bottom: 8px;
         }
         .deb-text {
-            font-size: 0.9rem;
-            line-height: 1.75;
-            color: rgba(200,225,255,0.82);
-            strong { color: #ddeeff; }
-            p, br + br { margin-top: 10px; }
-            // each blank-line paragraph in the banner
+            font-size: 0.91rem;
+            line-height: 1.78;
+            strong { color: #7dcfff; }
+            em { font-style: italic; }
             > * + * { margin-top: 10px; }
+        }
+        // Amber variant — RPA & Automation section
+        &.deb-amber {
+            background: rgba(232,160,32,0.06);
+            border-color: rgba(232,160,32,0.24);
+            border-left-color: #e8a020;
+            .deb-title { color: #e8c060; }
+            .deb-text strong { color: #f0c848; }
+        }
+        // Purple variant — Microsoft Fabric section
+        &.deb-fabric {
+            background: rgba(130,80,255,0.07);
+            border-color: rgba(130,80,255,0.22);
+            border-left-color: #8250ff;
+            .deb-title { color: #b39dff; }
+            .deb-text strong { color: #c4adff; }
         }
     }
 
@@ -347,10 +359,12 @@ body {
         color: rgba(180,200,240,0.75);
     }
 
-    /* Dark-mode / light-mode adjustments for new sections */
+    /* Dark-mode background softening for banners */
     &.theme-dark {
         .domain-expert-banner {
-            background: linear-gradient(135deg, rgba(0,184,255,0.04) 0%, rgba(6,13,24,0.9) 100%);
+            background: rgba(0,184,255,0.04);
+            &.deb-amber  { background: rgba(232,160,32,0.04); }
+            &.deb-fabric { background: rgba(130,80,255,0.05); }
         }
     }
 
