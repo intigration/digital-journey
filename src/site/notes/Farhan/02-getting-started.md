@@ -16,7 +16,7 @@ title: Professional Experience
 - Established cornerstones for operational excellence and process transparency across global manufacturing sites
 - Designed alarm rationalization frameworks enabling data-driven decision-making and reducing alarm fatigue by 40%+
 
-**AI-Driven Quality Optimization for Metals & Mining**
+**AI-Driven Quality & Strength Prediction for Metals & Mining**
 - Led design and deployment of large-scale anomaly detection and predictive quality pipelines using hybrid ANN-PCA-GA framework
 - Achieved significant improvements in Compressive Strength (CS) of iron ore pellets through continuous learning and adaptive control
 - Optimized production parameters in real-time, improving overall product consistency and reducing quality variations

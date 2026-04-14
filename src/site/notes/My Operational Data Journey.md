@@ -3,6 +3,7 @@
 ---
 
 <div class="cover-hero">
+<div id="page-clock" class="page-clock" aria-hidden="false"><span id="page-clock-time"></span></div>
 <div class="cover-hero-decor">
 <span class="chd-node"></span><span class="chd-line"></span><span class="chd-node"></span><span class="chd-line chd-line-short"></span><span class="chd-node"></span>
 </div>
@@ -338,6 +339,19 @@ If your organisation is building or transforming an <strong>Industrial Data Plat
 ---
 
 <center>
+<script>
+(function (){
+	function updateClock(){
+		var el = document.getElementById('page-clock-time');
+		if(!el) return;
+		var now = new Date();
+		var opts = { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' };
+		el.textContent = now.toLocaleString(undefined, opts);
+	}
+	updateClock();
+	setInterval(updateClock, 1000);
+})();
+</script>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_PK" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="engr-farhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/engr-farhan?trk=profile-badge">Muhammad Farhan</a></div>
 </center>
