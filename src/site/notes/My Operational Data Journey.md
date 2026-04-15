@@ -77,28 +77,28 @@ What makes this journey distinct is not just technical depth  it is <strong>owne
 <div class="kpi-grid">
 	<div class="kpi-card">
 		<div class="kpi-indicator"></div>
-		<div class="kpi-value">5 yrs</div>
-		<div class="kpi-label">Cybersecurity &amp; Risk Threats</div>
+		<div class="kpi-value">Cybersecurity &amp; Risk</div>
+		<div class="kpi-label">Threat modelling, IEC 62443, secure OT/IT boundary design</div>
 	</div>
 	<div class="kpi-card">
 		<div class="kpi-indicator"></div>
-		<div class="kpi-value">8 yrs</div>
-		<div class="kpi-label">DevOps &amp; Automation</div>
+		<div class="kpi-value">DevOps &amp; Automation</div>
+		<div class="kpi-label">CI/CD, GitOps, Terraform, test automation, DORA metrics</div>
 	</div>
 	<div class="kpi-card">
 		<div class="kpi-indicator"></div>
-		<div class="kpi-value">10 yrs</div>
-		<div class="kpi-label">IoT Edge &amp; Device Management</div>
+		<div class="kpi-value"> Edge &amp; Device Management</div>
+		<div class="kpi-label">Device provisioning, OTA updates, fleet identity, telemetry pipelines</div>
 	</div>
 	<div class="kpi-card">
 		<div class="kpi-indicator"></div>
-		<div class="kpi-value">12 yrs</div>
-		<div class="kpi-label">Embedded Devices &amp; Linux Runtime</div>
+		<div class="kpi-value">OCE &amp; IIoT</div>
+		<div class="kpi-label"></div>
 	</div>
 	<div class="kpi-card">
 		<div class="kpi-indicator"></div>
-		<div class="kpi-value">4 yrs</div>
-		<div class="kpi-label">AI &amp; Machine Learning</div>
+		<div class="kpi-value">AI &amp; Machine Learning</div>
+		<div class="kpi-label"></div>
 	</div>
 </div>
 
