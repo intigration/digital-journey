@@ -1,19 +1,18 @@
 ---
-{"Source":"https://www.linkedin.com/posts/thibaud-de-rouz%C3%A9-64954619_pi-system-et-aws-outposts-quand-arrivent-activity-6734155820826791936-TpND","dg-publish":true,"permalink":"/blog-articles/data/pi-system-et-aws-outposts/","dgPassFrontmatter":true}
+{"Source":"#","dg-publish":true,"permalink":"/blog-articles/data/pi-system-et-aws-outposts/","dgPassFrontmatter":true}
 ---
 
-Quand arrivent les sujets chauds de Data Science autour des séries de données temporelles, les préoccupations de nos interlocuteurs sont clairement différentes.  
-  
-Bien sûr, les rôles opérationnels (OT) ou informatiques (IT) ne partagent pas forcément les même objectifs, mais leur terrain d'entente se situe souvent autour d'une architecture de référence commune, qu'elle soit cloud, on-premises  
-ou hybride.  
-  
-Et c'est de ce dernier type d'architecture (hybride) que je souhaite vous parler aujourd'hui, avec AWS Outposts. Car oui, même si l'on trouve un terrain d'entente, l'éventail des solutions peut être large.  
-  
-En effet, quand ce type d'initiative est proposée avec des solutions on-premises, cloud ou hybrides, les technologies sont souvent différentes et nécessitent du temps et des efforts supplémentaires pour être correctement configurées.  
-  
-Or, AWS Outposts y échappe en offrant une expérience hybride vraiment cohérente sur ces trois niveaux. Ce service, entièrement géré par AWS, propose les mêmes infrastructures, services, API ou outils AWS, que vous ayez une stratégie cloud ☁️, ou on-premises 🏭.  
-  
-Voyez donc le résultat avec cette architecture de référence OSIsoft & AWS !
+Hybrid architectures are often where the tension between OT and IT roles becomes most visible. OT teams are focused on reliability, deterministic performance, and compliance with industrial standards, while IT teams prioritize scalability, integration, and cost efficiency. When time series data is involved—whether from sensors, industrial assets, or enterprise systems—the architecture must bridge both worlds without creating silos.
+
+That’s where AWS Outposts is interesting. It essentially extends AWS infrastructure and services into on‑premises environments, but with the same APIs, tools, and management plane as the cloud. This consistency is what reduces the “extra effort” you mentioned—teams don’t have to re‑engineer pipelines or re‑train staff for different environments. For time series workloads, this means:
+
+Data locality: Outposts allows sensitive or latency‑critical time series data (like industrial sensor streams) to stay on‑premises while still being processed with AWS services.
+
+Unified tooling: Whether you’re using Amazon Timestream, Kinesis, or SageMaker, the same APIs and SDKs apply across cloud and Outposts.
+
+Hybrid flexibility: You can design pipelines where preprocessing happens locally (e.g., filtering or anomaly detection at the edge) and aggregation or advanced analytics happen in the cloud.
+
+Governance and compliance: Outposts helps organizations meet regulatory requirements by keeping data in specific geographies or facilities, while still benefiting from cloud‑native services.
 
 ![](https://i.imgur.com/qs7y1np.png)
 
