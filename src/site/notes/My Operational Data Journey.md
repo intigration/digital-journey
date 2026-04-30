@@ -123,15 +123,21 @@ What makes this journey distinct is not just technical depth  it is <strong>owne
 ## Career Timeline
 
 ### AI & Data Architect  Industrial Digital Transformation
-**Lean Automation** · 2023 – 2025 · Hybrid, Lahore, Pakistan
+**Lean Automation** · 2023 – till-date · Hybrid, Lahore, Pakistan
 
 Leading 4+ person functional organization delivering Industrial Data Platforms, Digital Twin solutions, and Performance Loop Optimization systems across process and discrete industries. Driving product strategy, technical architecture, and enterprise-scale data transformation aligned with ISA-95 and IEC 62443 standards  with a strong emphasis on open industrial connectivity (OPC UA, OPC DA, MQTT, Modbus) and MS SQL / time-series data stores.
 
 **Strategic Initiatives:**
+- Leading 15+ person cross-functional organization delivering industrial AI platforms with focus on metals & mining, manufacturing, and energy sectors. Driving product strategy, technical architecture, and enterprise-scale data transformation initiatives.
+- Led RFP evaluations and tender processes end-to-end, defining reference architectures, accelerating MVP/POC delivery, and validating scalable enterprise solutions across data platforms, apps, and AI agents for rapid industrial adoption.
+- Enabled seamless interoperability across field devices and enterprise systems through structured data models, advanced diagnostics, and integrated maintenance intelligence.
+- Designed and implemented an Agentic AI layer tightly integrated with OT systems, enabling real-time decisioning, autonomous workflows, and contextual intelligence across SCADA, PLCs, and edge devices.
 - **Digital Twin & Unified Alarm Management (Level 4)**  Architected UAEM ecosystem providing real-time asset performance visibility and alarm rationalization across global manufacturing sites. Reduced alarm fatigue by 40%+ and enabled data-driven operational decisions
+- Delivered enterprise-scale data and AI platforms leveraging Microsoft Fabric within hybrid architectures, integrating OT/IT systems and enabling Industrial Fabric use cases with Agentic AI-driven applications and intelligent automation.
 - **AI-Driven Quality Optimization**  Hybrid machine learning framework for iron ore pellet quality; continuous learning pipelines achieving significant improvements in product Compressive Strength (CS) and consistency through adaptive AI control
 - **Industrial Data Platform**  Unified platform ingesting 2M+ sensor readings/min across 15+ facilities with zero-loss architecture on Azure/AWS, intelligent data-tiering, and ISA-95-aligned governance enabling predictive maintenance and cross-plant benchmarking
 - **MLOps & Edge AI**  End-to-end MLOps pipelines with PyTorch + OpenVINO; streaming analytics via Kafka + Apache Flink at sub-second latency; OpenVINO on NVIDIA Jetson and Intel NUC platforms
+- Delivered a unified device diagnostics and integration framework aligning NAMUR NE 107:2017, OPC UA, and IEC 62769 (FDI) for standardized health monitoring, alarms, and lifecycle management.
 - **Technology Partnerships**  Negotiated partnerships with NVIDIA, Microsoft Azure, and industrial OEMs; established compliance with IEC 62443 and data privacy regulations
 
 `Azure ML Studio` `PyTorch` `OpenVINO` `Kafka` `Flink` `Spark` `InfluxDB` `Microsoft Fabric` `OPC UA` `MQTT` `Docker` `Kubernetes` `OSIsoft PI` `AVEVA Historian`
