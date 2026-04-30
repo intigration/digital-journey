@@ -5,9 +5,16 @@ title: Professional Experience
 
 
 #### **AI & Data Architect – Industrial Digital Transformation**
-**Lean Automation** | 2023 – 2025 | Hybrid, Lahore, Pakistan
+**Lean Automation** | 2023 – ToDate | Hybrid, Lahore, Pakistan
 
-**Business Impact:** Leading 15+ person cross-functional organization delivering industrial AI platforms with focus on metals & mining, manufacturing, and energy sectors. Driving product strategy, technical architecture, and enterprise-scale data transformation initiatives.
+**Business Impact:** 
+- Leading 15+ person cross-functional organization delivering industrial AI platforms with focus on metals & mining, manufacturing, and energy sectors. Driving product strategy, technical architecture, and enterprise-scale data transformation initiatives.
+- Delivered enterprise-scale data and AI platforms leveraging Microsoft Fabric within hybrid architectures, integrating OT/IT systems and enabling Industrial Fabric use cases with Agentic AI-driven applications and intelligent automation.
+- Led RFP evaluations and tender processes end-to-end, defining reference architectures, accelerating MVP/POC delivery, and validating scalable enterprise solutions across data platforms, apps, and AI agents for rapid industrial adoption.
+- Delivered a unified device diagnostics and integration framework aligning NAMUR NE 107:2017, OPC UA, and IEC 62769 (FDI) for standardized health monitoring, alarms, and lifecycle management.
+- Enabled seamless interoperability across field devices and enterprise systems through structured data models, advanced diagnostics, and integrated maintenance intelligence.
+- Designed and implemented an Agentic AI layer tightly integrated with OT systems, enabling real-time decisioning, autonomous workflows, and contextual intelligence across SCADA, PLCs, and edge devices.
+- Orchestrated seamless interaction with upstream and downstream layers (data, application, and enterprise), ensuring secure data flow, closed-loop automation, and scalable deployment of AI agents within industrial architectures.
 
 **Strategic Initiatives:**
 
